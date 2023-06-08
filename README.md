@@ -7,5 +7,5 @@
 |**Descripción**|**Cantidad**|
 |--|--|
 |`Duracion`   | 2 horas |
-|`Clases`     | 0/19    |
-|`Porcentaje` | 0%      |
+|`Clases`     | 2/19    |
+|`Porcentaje` | 0.10%   |
