@@ -1,4 +1,4 @@
-<img width="80" height="80" src="./content/assets/logos/Curso_de_introduccion_al_desarrollo_backend.png">
+<img width="80" height="80" src="../content/assets/logos/Curso_de_introduccion_al_desarrollo_backend.png">
 
 # `Introducción al desarrollo backend`
 
@@ -33,3 +33,33 @@ Los usuarios hacen solicitudes por distintos medio vistos anteriormente. (web, m
 - Las bases de datos porporcionan la información que requiere el backend para satisfacer la solicitud hecha por el cliente.
 - Las librerías son herramientas (piezas de código) pre-fabricadas por otros desarrolladores, que pueden ser importadas al proyecto para evitar la necesidad de crear código ya existente (no hay que reinventar la rueda).
 - Los framework son un conjunto de librerías que en conjunto conforman un marco de trabajo utilizado para responder a una necesidad específica existente en un proyecto.
+
+### ¿Cómo escoger lenguajes y frameworks para backend? `4/19`
+Los frameworks son herramientas que nos ayudan a ir mas rapido y desarrollar nuestro proyecto mejor estructurado.
+
+Python:
+
+- Django
+- Flask
+- FastAPI
+
+JavaScript
+
+- Express
+- NextJS
+
+PHP
+- Laravel
+- Symphony
+
+Java
+- Spring boot
+
+Go
+- Gin
+
+Rubi
+- Ruby Rails
+
+C#
+- .NET
